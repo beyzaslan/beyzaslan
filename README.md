@@ -4,7 +4,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/beyz_aslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beyz_aslan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/beyza-aslan-a82302128?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2b9o%2fguiirq6s9micfxy9sq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beyza-aslan-a82302128?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2b9o%2fguiirq6s9micfxy9sq%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/https://www.linkedin.com/in/beyza-beyza-a82302128?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqrUDkPa7QyeTGhClXttpNw%3D%3D
+lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2b9o%2fguiirq6s9micfxy9sq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beyza-aslan-a82302128?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2b9o%2fguiirq6s9micfxy9sq%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/beyzaslan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beyzaslan__" height="30" width="40" /></a>
 </p>
 
